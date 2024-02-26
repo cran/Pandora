@@ -1,3 +1,9 @@
+# Pandora 24.02.0
+
+## Updates
+- catch issue if resources are missing in tests
+- automate documentation
+
 # Pandora 23.12.0
 
 ## Features

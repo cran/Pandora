@@ -1,6 +1,6 @@
-55a51949d3c616c2e6de1c50488e7f27 *DESCRIPTION
+d3bdb16056b572abb683873c37b1bad9 *DESCRIPTION
 dd650698fcdc649076c028537b4a98fc *NAMESPACE
-ae7320b9858f4a13e27dced96ed1f58e *NEWS.md
+9d704dc9dd5da1cc92d11f9b30ce030a *NEWS.md
 cef040d152a3eb704fa379c3e8185d0d *R/00-Namespace.R
 edd424ca7c05f5a2b42828b5677af020 *R/00-config.R
 245ef36c81b15b802e0199bc2bd5cb6c *R/01-ckan.R
@@ -9,8 +9,8 @@ ef4b6faab953e5f76e0aa93616a43a99 *R/02-getData.R
 633aacdb122c3552d126c1c22dabc165 *build/vignette.rds
 8b81611c186ae7de5e61f2ab8f4e7fbd *inst/config.yaml
 618e1aea865c2dddbd4bac44ca0749e3 *inst/doc/how-to-use-pandora-data.R
-573eb5fe951757ff083e2985d1abc1c2 *inst/doc/how-to-use-pandora-data.Rmd
-fd6e17409b12be6746fb2272f012e534 *inst/doc/how-to-use-pandora-data.html
+7bc8113fdb3231da2e25eb181af1d38c *inst/doc/how-to-use-pandora-data.Rmd
+59d1d1342386dc2594f3edf40073871f *inst/doc/how-to-use-pandora-data.html
 3d710570592fd0526c05c98f6eb624aa *man/callAPI.Rd
 ddcbaac439a1a49f8007a54bc365f7ca *man/dataOptions.Rd
 3914e55a251da22b6c4e19ac2c8658dc *man/filterPattern.Rd
@@ -29,6 +29,7 @@ d54fa35b21cc3013eec7586ab54a738b *man/getResources.Rd
 35a39f6f6e55943ebe6caf6c14d9765b *man/selectSingleFile.Rd
 349cff52dd41eda769ff10ca5e991f5a *man/validateResource.Rd
 c7166024796c3b11c28acfd45df872a4 *tests/testthat.R
+0773a67737e11ed0e8bf5aeffc92dd1c *tests/testthat/helpers.R
 4bbd978576285e97783ce4e84c07c617 *tests/testthat/test-ckan.R
-a8cd967f31197547163a82e5a44a5a8d *tests/testthat/test-getData.R
-573eb5fe951757ff083e2985d1abc1c2 *vignettes/how-to-use-pandora-data.Rmd
+94da3be28f8c3cc3492910eec5df4b49 *tests/testthat/test-getData.R
+7bc8113fdb3231da2e25eb181af1d38c *vignettes/how-to-use-pandora-data.Rmd
